@@ -37,7 +37,7 @@ describe('login to the Star-Idaz', function () {
     element(by.id('password')).sendKeys(browser.params.user.password);
     element(by.buttonText('Sign In')).click();
     browser.wait(EC.invisibilityOf($('.pg-loading-center-middle')), 10000);
-    expect(browser.getTitle()).toEqual('STAR-IDAZ - Login');
+    expect(browser.getTitle()).toEqual('STAR-IDAZ IRC - Login');
   });
 
 });

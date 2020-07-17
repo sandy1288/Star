@@ -21,7 +21,7 @@ exports.config = {
     'Testcases/login/*.js',
     'Testcases/Home/*.js',
     // 'Testcases/AddTheme/*.js',
-    // 'Testcases/AddDiseaseRoadmap/*.js',
+    'Testcases/AddDiseaseRoadmap/*.js',
     // 'Testcases/AddCountrydocument/*.js',
     // 'Testcases/AddAnimaldocumets/*.js',
     // 'Testcases/AddPathogen/*.js',
@@ -29,7 +29,7 @@ exports.config = {
     // 'Testcases/Organisation/*.js',
     // 'Testcases/Addtag/*.js',
     // 'Testcases/More/*.js',
-    'Testcases/Addtag/*.js',
+    // 'Testcases/Addtag/*.js',
     // 'Testcases/updated_user/*.js',
     // 'Testcases/Admin_Section/*.js'
 
